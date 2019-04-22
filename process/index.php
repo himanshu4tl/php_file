@@ -9,7 +9,6 @@
         <input type="button" onclick="stopTask();"  value="Stop Task" />
         <br />
         <br />
-          
         <p>Results</p>
         <br />
         <div id="results" style="border:1px solid #000; padding:10px; width:300px; height:250px; overflow:auto; background:#eee;"></div>
